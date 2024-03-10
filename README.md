@@ -1,7 +1,5 @@
 ### ¡Hola! Soy Daniel.
 
-[![asdasdasda.png](https://i.postimg.cc/fTX9R3Gt/asdasdasda.png)](https://postimg.cc/xcfCsdTn)
-
 Un joven de 19 años lleno de pasión y determinación. Me considero afortunado de poseer una combinación de cualidades que me han ayudado a destacar en mi camino hacia el éxito. Desde temprana edad, siempre me ha apasionado la tecnología y la programación. Mi habilidad innata para el desarrollo web me ha permitido crear la página web más exitosa de mi clase, un logro del que me siento realmente orgulloso.
 
 [![Captura-de-pantalla-2024-03-10-123735.png](https://i.postimg.cc/FRmSMhWd/Captura-de-pantalla-2024-03-10-123735.png)](https://postimg.cc/948zTHjC)
